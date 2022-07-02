@@ -3,3 +3,4 @@
 - LMAO BANGET DEH
 
 ![Maoelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maoelan&show_icons=true&theme=graywhite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maoelan&repo=github-readme-stats)](https://github.com/Maoelan/github-readme-stats)
