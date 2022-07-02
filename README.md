@@ -3,4 +3,4 @@
 - LMAO BANGET DEH
 
 ![Maoelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maoelan&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maoelan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maoelan&layout=compact&theme=dark)
