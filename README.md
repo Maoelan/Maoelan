@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maoelan aka Maulana Muhammad
+- 👋 Hi, I’m Maoelan
 - 👀 I’m interested in coding
 - LMAO BANGET DEH
 
