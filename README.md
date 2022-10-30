@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Maoelan
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Maoelan&show_icons=true&theme=chartreuse-dark)
+![Maoelan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Maoelan&show_icons=true&layout=compact&theme=chartreuse-dark)
