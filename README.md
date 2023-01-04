@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Maoelan
-- Penyefonk laravel & codeigniter 
 - Currently study about machine learning, data science & deep learning, but im actually suck on it lul
