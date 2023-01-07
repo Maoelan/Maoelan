@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Maoelan
-- Currently study about machine learning, data science & deep learning, but im actually suck on it lul
+- Currently study about machine learning, data science & little bit deep learning, but im actually suck on it lul
 - Kaggle : https://www.kaggle.com/maoel31
