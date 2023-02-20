@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Maoelan
 - Currently study about artificial intelligence & machine learning but im actually suck on it lul
+- Learning about DevOps & Backend
 - Kaggle : https://www.kaggle.com/maoel31
