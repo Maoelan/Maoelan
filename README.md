@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Maoelan
-- Currently study about artificial intelligence & machine learning
+- For now im only focusing on machine learning
 - Kaggle : https://www.kaggle.com/maoel31
