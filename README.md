@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Maoelan
-- For now im only focusing on machine learning
+- For now, im only focusing on machine learning
+- Im new to machine learning, it's only been eight months since the first time I actually learned it
 - Kaggle : https://www.kaggle.com/maoel31
