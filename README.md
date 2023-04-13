@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Maoelan
 - For now, im only focusing on machine learning
-- I'm new to machine learning, it's only been eight months since the first time I actually learned it
 
 <div id="badges">
   <a href="https://www.kaggle.com/maoel31">
