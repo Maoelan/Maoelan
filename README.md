@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Maoelan
 - For now, im only focusing on machine learning
+- Besides studying machine learning, I have plans to learn Android development in the future
 
 <div id="badges">
   <a href="https://www.kaggle.com/maoel31">
