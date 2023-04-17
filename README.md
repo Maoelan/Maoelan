@@ -16,5 +16,5 @@ For now, im only focusing on machine learning
 ### TROPY
 [![trophy](https://github-profile-trophy.vercel.app/?username=maoelan&theme=dark_lover&row=1&column=3)](https://github.com/maoelan/github-profile-trophy)
 
-<img src="https://user-images.githubusercontent.com/58927608/232597295-5b9b85e6-b17b-4d85-8460-7a3f6b06660e.gif" width="332" height="332">
+<img src="https://user-images.githubusercontent.com/58927608/232597295-5b9b85e6-b17b-4d85-8460-7a3f6b06660e.gif" width="330" height="330">
 
