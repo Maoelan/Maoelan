@@ -11,7 +11,7 @@ For now, im only focusing on machine learning
 </div>
 
 ### TOP LANGS
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&layout=compact&theme=codeSTACKr&langs_count=10)](https://github.com/maoelan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&layout=compact&theme=codeSTACKr&langs_count=8)](https://github.com/maoelan/github-readme-stats)
 
 ### TROPY
 [![trophy](https://github-profile-trophy.vercel.app/?username=maoelan&theme=dark_lover&row=1&column=3)](https://github.com/maoelan/github-profile-trophy)
