@@ -1,5 +1,4 @@
 ### Hi, I’m Maoelan👋 
-For now, im only focusing on Machine Learning & a bit about Flutter
 
 <div id="badges">
   <a href="https://www.kaggle.com/maoel31">
