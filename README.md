@@ -8,7 +8,7 @@
 
 ![Maoelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=maoelan&show_icons=true&theme=codeSTACKr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&layout=compact&theme=codeSTACKr&langs_count=6)](https://github.com/maoelan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&layout=compact&theme=codeSTACKr&langs_count=30)](https://github.com/maoelan/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/58927608/232597295-5b9b85e6-b17b-4d85-8460-7a3f6b06660e.gif" width="330" height="330">
 
