@@ -8,7 +8,7 @@
 
 ![Maoelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=maoelan&show_icons=true&theme=codeSTACKr&card_width=495)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&layout=compact&theme=codeSTACKr&langs&card_width=495_count=600)](https://github.com/maoelan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&layout=compact&theme=codeSTACKr&langs_count=50&card_width=495&hide_progress=false)](https://github.com/maoelan/github-readme-stats)
 
 [![Maoelan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&layout=compact&theme=codeSTACKr&card_width=600)](https://github.com/maoelan/github-readme-stats)
 
