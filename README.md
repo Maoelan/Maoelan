@@ -15,42 +15,36 @@
 <br>
 
 <!-- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning kotlin and cloud with GCP
+- 🌱 I’m currently learning mobile development (kotlin) and cloud with GCP
 - 👯 I’m looking to collaborate on something related to ML/DL and mobile apps
 - 🤔 I’m looking for help with cloud computing (i think this is more difficult than coding LOL)
-- 💬 Ask me about ML/DL
+- 💬 Ask me about everything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Feeling Depressed
-
-
-### Github Statistic
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maoelan&show_icons=true&theme=codeSTACKr&card_width=495"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&layout=compact&theme=codeSTACKr&langs_count=6"/>
-</p>
 
 ### Playtime
 <p align="left">
   <img height="139em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=codeSTACKr&card_width=600"/>
 </p>
 
-### My Activity
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uadt4x7mq6czonsgyx41b8grl&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<!--[![Maoelan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&layout=compact&theme=codeSTACKr&card_width=600)](https://github.com/maoelan/github-readme-stats)-->
-
-<!--![Maoelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=maoelan&show_icons=true&theme=codeSTACKr&card_width=495)
--->
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&layout=compact&theme=codeSTACKr&langs_count=50&card_width=495&hide_progress=false)](https://github.com/maoelan/github-readme-stats)
--->
-
-<!--[![Maoelan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&layout=compact&theme=codeSTACKr&card_width=600)](https://github.com/maoelan/github-readme-stats)-->
-
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=maoelan&theme=dark_lover&row=1&column=3)](https://github.com/maoelan/github-profile-trophy)
--->
+### Technology (Tools)
+<p align="left">
+  <img height="45em" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45em" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45em" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45em" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45em" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45em" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45em" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45em" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
+</p>
 
 <!--
 <img src="https://user-images.githubusercontent.com/58927608/232597295-5b9b85e6-b17b-4d85-8460-7a3f6b06660e.gif" width="330" height="330">
