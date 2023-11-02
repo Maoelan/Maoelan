@@ -24,7 +24,7 @@
 
 ### Playtime
 <p align="left">
-  <img height="139em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=codeSTACKr&card_width=600"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=codeSTACKr"/>
 </p>
 
 ### Technology (Tools)
