@@ -1,5 +1,7 @@
 ### Hi, I’m Maoelan👋 
 
+![](https://komarev.com/ghpvc/?username=maoelan&style=for-the-badge&color=red)
+
 <div id="badges">
   <a href="https://www.kaggle.com/maoel31">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
