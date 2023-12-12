@@ -1,6 +1,6 @@
 ### Hi, I’m Maoelan👋 
 
-![](https://komarev.com/ghpvc/?username=maoelan&style=for-the-badge&color=red)
+![](https://komarev.com/ghpvc/?username=maoelan&style=flat&color=red)
 
 <div id="badges">
   <a href="https://www.kaggle.com/maoel31">
@@ -25,7 +25,7 @@
 
 ### Playtime
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=codeSTACKr"/>
+  <img height="330em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=codeSTACKr"/>
 </p>
 
 ### Technology (Tools)
