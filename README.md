@@ -17,12 +17,11 @@
 <br>
 
 <!-- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning mobile development (kotlin) and cloud with GCP
-- 👯 I’m looking to collaborate on something related to ML/DL and mobile apps
-- 🤔 I’m looking for help with cloud computing (i think this is more difficult than coding LOL)
-- 💬 Ask me about everything
+- 🌱 I’m currently learning advance networking & cybersecurity
+- 👯 I’m looking to collaborate on something related to programming or networking
+- 🤔 I’m looking for help with cloud computing
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Feeling Depressed
+- ⚡ Fun fact: No fun fact about me
 
 ### Playtime
 <p align="left">
