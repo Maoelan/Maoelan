@@ -15,18 +15,18 @@
 <br>
 
 <!-- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning advance networking & cybersecurity
-- 👯 I’m looking to collaborate on something related to programming or networking
-- 🤔 I’m looking for help with cloud computing
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: No fun fact about me
+- 🌱 I’m currently learning ?
+- 👯 I’m looking to collaborate on ?
+- 🤔 I’m looking for help with ?
+- 😄 Pronouns: ?
+- ⚡ Fun fact: ?
 
 ### Playtime
 <p align="left">
   <img height="330em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=codeSTACKr"/>
 </p>
 
-### Technology (Tools)
+<!--### Technology (Tools)
 <p align="left">
   <img height="40em" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,7 +43,7 @@
   <img height="40em" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40em" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
-</p>
+</p>-->
 
 <!--
 <img src="https://user-images.githubusercontent.com/58927608/232597295-5b9b85e6-b17b-4d85-8460-7a3f6b06660e.gif" width="330" height="330">
