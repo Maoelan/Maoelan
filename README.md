@@ -1,4 +1,10 @@
-### Hi, I’m Maoelan👋 
+### Hi, I’m Maoelan / Maulana Muhammad👋 
+
+I have a particular interest in the field of data. I can utilize various tools such as spreadsheets, SQL, R, and Python, as well as visualization tools like Tableau and Power BI.
+
+In addition, I am familiar with several other programming languages such as Java, PHP, JavaScript, C#, along with their respective frameworks.
+
+I also have some experience using Kotlin for mobile programming.
 
 <!--<div id="badges">
   <a href="https://www.kaggle.com/maoel31">
@@ -14,19 +20,19 @@
 
 <!--<br>-->
 
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ?
-- 👯 I’m looking to collaborate on ?
-- 🤔 I’m looking for help with ?
-- 😄 Pronouns: ?
-- ⚡ Fun fact: ?
+- 🔭 I’m currently working on teaching programming & networking to high school students
+- 🌱 I’m currently learning about data analytics & ai
+- 👯 I’m looking to collaborate on data project
+- 🤔 I’m looking for help with advance math
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: no fun fact
 
 <!--### Playtime
 <p align="left">
   <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=codeSTACKr"/>
 </p>-->
 
-### Technology (Tools)
+<!--### Technology (Tools)
 <p align="left">
   <img height="25em" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img height="25em" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -77,7 +83,7 @@
   <img height="25em" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img height="25em" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
-
+-->
 
 
 
