@@ -1,6 +1,6 @@
 ### Hi, I’m Maoelan / Maulana Muhammad👋 
 
-I have a particular interest in the field of data.
+I have a particular interest in field of data.
 
 <!--<div id="badges">
   <a href="https://www.kaggle.com/maoel31">
