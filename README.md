@@ -1,10 +1,6 @@
 ### Hi, I’m Maoelan / Maulana Muhammad👋 
 
-I have a particular interest in the field of data. I can utilize various tools such as spreadsheets, SQL, R, and Python, as well as visualization tools like Tableau and Power BI.
-
-In addition, I am familiar with several other programming languages such as Java, PHP, JavaScript, C#, along with their respective frameworks.
-
-I also have some experience using Kotlin for mobile programming.
+I have a particular interest in the field of data.
 
 <!--<div id="badges">
   <a href="https://www.kaggle.com/maoel31">
