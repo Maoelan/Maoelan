@@ -16,12 +16,12 @@ I have a particular interest in field of data.
 
 <!--<br>-->
 
-- 🔭 I’m currently working on teaching programming & networking to high school students
+<!-- 🔭 I’m currently working on teaching programming & networking to high school students
 - 🌱 I’m currently learning about data analytics & ai
 - 👯 I’m looking to collaborate on data project
 - 🤔 I’m looking for help with advance math
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: no fun fact
+- ⚡ Fun fact: no fun fact-->
 
 <!--### Playtime
 <p align="left">
