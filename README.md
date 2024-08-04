@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I’m Maoelan / Maulana Muhammad👋 
 
-<!--
-**Maoelan/Maoelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+- ⌨️ Currently learning native Android development
+- 🤖 Also exploring pyTorch and gen ai LLM
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: no fun fact
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://maoelana.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulana-muhammad-107452244)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=codeSTACKr&hide_border=true"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
