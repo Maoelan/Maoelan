@@ -2,7 +2,7 @@
 
 #
 
-<img align=left width="299" src="https://lanyard-profile-readme.vercel.app/api/374020847687696395?bg=23283d&borderRadius=5px&bg=:orange&width=20"/>
+<img align=left width="298" src="https://lanyard-profile-readme.vercel.app/api/374020847687696395?bg=23283d&borderRadius=5px&bg=:orange&width=20"/>
 
 ### 📋 Profile
 ⌨️ Currently learning native Android development
