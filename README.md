@@ -4,8 +4,11 @@
 
 <img align=left width="298" src="https://lanyard-profile-readme.vercel.app/api/374020847687696395?bg=23283d&borderRadius=5px&bg=:orange&width=20"/>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Maoelan&label=Profile%20views&color=0e75b6&style=flat" alt="Maoelan" />
+</p>
+
 ### 📋 Profile
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Maoelan&label=Profile%20views&color=0e75b6&style=flat"alt="Maoelan" /> </p>
 ⌨️ Currently learning native Android development
 <br>
 🤖 Also exploring pyTorch and gen ai LLM
