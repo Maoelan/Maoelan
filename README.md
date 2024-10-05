@@ -1,12 +1,5 @@
 ## Hi, I’m Maoelan / Maulana Muhammad 👋 
 
-<!-- Profile Views -->
-<!--
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Maoelan&label=Profile%20views&color=0e75b6&style=flat" alt="Maoelan" />
-</p>
--->
-
 ### 📋 Profile
 - ⌨️ Currently learning native Android development
 - 🤖 Also exploring PyTorch and Generative AI (LLMs)
@@ -14,18 +7,22 @@
 ---
 
 ### 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://maoelana.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulana-muhammad-107452244)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=About.me&logoColor=000000)](https://maoelana.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/maulana-muhammad-107452244)
 
 ---
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=codeSTACKr&hide_border=true&layout=compact" alt="Top Languages"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=codeSTACKr&hide_border=true&layout=compact&langs_count=6" alt="WakaTime Stats"/>
+  <!-- GitHub Top Languages Card -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=dark&hide_border=true&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Top Languages"/>
+  
+  <!-- WakaTime Stats Card -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="WakaTime Stats"/>
 </div>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
+  <!-- GitHub Streak Stats -->
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=black-ice&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </div>
 
 ---
