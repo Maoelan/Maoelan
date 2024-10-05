@@ -21,11 +21,11 @@
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=codeSTACKr&hide_border=true&layout=compact" alt="Top Languages"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=codeSTACKr&hide_border=true&layout=compact&langs_count=6" alt="WakaTime Stats"/>
 </div>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=codeSTACKr&hide_border=true&layout=compact&langs_count=6" alt="WakaTime Stats"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
