@@ -3,6 +3,7 @@
 ### 📋 Profile
 - ⌨️ Currently learning native Android development
 - 🤖 Also exploring PyTorch and Generative AI (LLMs)
+- ⚙️ Machine Learning Engineer & Data Scientist Enthusiast
 
 ---
 
