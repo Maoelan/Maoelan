@@ -4,6 +4,7 @@
 - ⌨️ Currently learning native Android development
 - 🤖 Also exploring PyTorch and Generative AI (LLMs)
 - ⚙️ Machine Learning Engineer & Data Scientist Enthusiast
+- 💻 External Code Reviewer Dicoding Indonesia, Machine Learning Engineer and Data Scientist Learning Paths
 
 ---
 
@@ -28,6 +29,6 @@
 
 ---
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github.com/Maoelan/Maoelan/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
-</div>
+</div>-->
