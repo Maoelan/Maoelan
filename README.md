@@ -1,4 +1,5 @@
 ## Hi, I’m Maoelan / Maulana Muhammad 👋 
+![](https://komarev.com/ghpvc/?username=maoelan&color=gray)
 
 ### 📋 Profile
 - ⌨️ Currently learning native Android development
