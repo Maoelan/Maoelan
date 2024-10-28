@@ -2,10 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=maoelan&color=gray)
 
 ### 📋 Profile
-- ⌨️ Currently learning Native Android Development
+- ⌨️ Currently learning Native Android Development & Backend Javascript
 - 🤖 Exploring PyTorch and Generative AI (LLMs)
 - ⚙️ Machine Learning Engineer & Data Science Enthusiast
-- 💻 Active as an External Academy Code Reviewer at Dicoding Indonesia
+- 💻 Active as External Academy Code Reviewer at Dicoding Indonesia
 
 ---
 
