@@ -23,10 +23,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="WakaTime Stats"/>
 </div>
 
-<div align="center">
-  <!-- GitHub Streak Stats -->
+<!--<div align="center">
+  <!-- GitHub Streak Stats
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=black-ice&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
-</div>
+</div>-->
 <!--
 ---
 
