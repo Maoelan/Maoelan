@@ -11,7 +11,7 @@
 
 ### 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=About.me&logoColor=000000)](https://maoelana.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/maulana-muhammad-107452244)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/maulana-muhammad-107452244)-->
 
 ---
 
