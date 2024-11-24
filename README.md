@@ -1,4 +1,9 @@
-## Hi, I’m Maoelan / Maulana Muhammad 👋 
+## Hi, I’m Maoelan / Maulana Muhammad 👋
+![](https://komarev.com/ghpvc/?username=maoelan&color=gray)
+
+I'm currently learning native Android development and backend JavaScript, while also exploring PyTorch and generative AI (LLMs). I'm a machine learning enthusiast and active as external academy code reviewer at Dicoding Indonesia. You can check out my portfolio at [Portfolio](https://maoelana.vercel.app/).
+
+<!--## Hi, I’m Maoelan / Maulana Muhammad 👋 
 ![](https://komarev.com/ghpvc/?username=maoelan&color=gray)
 
 ### 📋 Profile
@@ -17,17 +22,17 @@
 
 <div align="center">
   <!-- GitHub Top Languages Card -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=dark&hide_border=true&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Top Languages"/>
+ <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=dark&hide_border=true&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Top Languages"/>
   
   <!-- WakaTime Stats Card -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="WakaTime Stats"/>
+ <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="WakaTime Stats"/>
 </div>
 
 <div align="center">
   <!-- GitHub Streak Stats-->
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=black-ice&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
+<!--  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=black-ice&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
   <img src="https://github.com/Maoelan/Maoelan/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
-</div>
+</div>-->
