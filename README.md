@@ -1,7 +1,7 @@
 ## Hi, I’m Maoelan / Maulana Muhammad 👋
 ![](https://komarev.com/ghpvc/?username=maoelan&color=gray)
 
-I'm machine learning enthusiast, currently learning native Android development and backend JavaScript, while also exploring PyTorch and generative AI (LLMs). 
+I'm machine learning enthusiast, currently exploring PyTorch and generative AI (LLMs). 
 <!--I'm machine learning enthusiast and active as external academy code reviewer at Dicoding Indonesia.--> 
 You can check out my portfolio at [Portfolio](https://maoelana.vercel.app/).
 
