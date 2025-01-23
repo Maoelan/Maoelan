@@ -5,6 +5,16 @@ I'm machine learning enthusiast, currently exploring PyTorch and generative AI (
 <!--I'm machine learning enthusiast and active as external academy code reviewer at Dicoding Indonesia.--> 
 You can check out my portfolio at [Portfolio](https://maoelana.vercel.app/).
 
+---
+
+<div align="center">
+  <!-- GitHub Top Languages Card -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=dark&hide_border=true&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Top Languages"/>
+  
+  <!-- WakaTime Stats Card -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="WakaTime Stats"/>
+</div>
+
 <!--## Hi, I’m Maoelan / Maulana Muhammad 👋 
 ![](https://komarev.com/ghpvc/?username=maoelan&color=gray)
 
