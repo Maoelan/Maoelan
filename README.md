@@ -1,9 +1,11 @@
-## Hi, I’m Maoelan / Maulana Muhammad 👋
-![](https://komarev.com/ghpvc/?username=maoelan&color=gray)
+## Hey, I’m Maoelan / Maulana Muhammad 👋  
+![](https://komarev.com/ghpvc/?username=maoelan&color=gray)  
 
-I'm machine learning enthusiast, currently exploring PyTorch and generative AI (LLMs). 
-<!--I'm machine learning enthusiast and active as external academy code reviewer at Dicoding Indonesia.--> 
-You can check out my portfolio at [Portfolio](https://maoelana.vercel.app/).
+I’m a machine learning enthusiast, currently exploring PyTorch and generative AI (LLMs).  
+
+Besides diving into data and machine learning, I’m also into mobile development. Right now, I’m learning native Android & Flutter, and maybe React Native and Swift in the future.  
+
+Feel free to check out my work at [Portfolio](https://maoelana.vercel.app/).  
 
 ---
 
