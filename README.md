@@ -1,7 +1,9 @@
 ## Hey, I’m Maoelan / Maulana Muhammad 👋  
 ![](https://komarev.com/ghpvc/?username=maoelan&color=gray)  
 
-I’m a machine learning enthusiast. Besides data and machine learning, I’m also interested in mobile development, such as native Android and Flutter.
+I’m a machine learning enthusiast. 
+
+Besides data and machine learning, I’m also interested in mobile development, such as native Android and Flutter.
 
 <!-- Feel free to check out my work at [Portfolio](https://maoelana.vercel.app/).  
 
