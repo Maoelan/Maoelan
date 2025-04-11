@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey, I’m Maoelan / Maulana Muhammad 👋  
+<!--[](https://komarev.com/ghpvc/?username=maoelan&color=gray)  -->
 
-<!--
-**Maoelan/Maoelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a machine learning enthusiast.
+<!--, currently exploring PyTorch and generative AI (LLMs).  
 
-Here are some ideas to get you started:
+Besides diving into data and machine learning, I’m also into mobile development. Right now, I’m learning native Android & Flutter, and maybe React Native and Swift in the future.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Feel free to check out my work at [Portfolio](https://maoelana.vercel.app/). -->
+
+----
+
+<div align="center">
+  <!-- GitHub Top Languages Card -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=dark&hide_border=true&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Top Languages"/>
+  
+  <!-- WakaTime Stats Card -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="WakaTime Stats"/>
+</div>
