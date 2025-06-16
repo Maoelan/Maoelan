@@ -8,7 +8,7 @@ I’m a machine learning enthusiast.
 🤝 I’m seeking help and exploring more about DevOps practices and Cloud platforms.  
 🌱 Currently, I’m expanding my skill set in infrastructure automation and cloud services.  
 💬 Feel free to ask me anything related to intelligent systems and data-driven solutions.  
-⚡ Fun fact: Medioker (always improving, maybe)!
+⚡ Fun fact: Mediocre (always improving, maybe)!
 
 <!--, currently exploring PyTorch and generative AI (LLMs).  
 
