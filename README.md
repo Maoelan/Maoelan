@@ -3,7 +3,7 @@
 
 I’m a machine learning enthusiast.
 
-🔭 I’m currently working on Machine Learning and Data Science.  
+🔭 I’m currently involved in Business while also working with Machine Learning and Data Science.
 👯 I’m open to collaborating on exciting projects in the ML domain.  
 🤝 I’m seeking help and exploring more about DevOps practices and Cloud platforms.  
 🌱 Currently, I’m expanding my skill set in infrastructure automation and cloud services.  
