@@ -3,11 +3,11 @@
 
 I’m a machine learning enthusiast.
 
-🔭 I’m currently working in Business, while also focusing on Machine Learning and Data Science.  
-👯 I’m open to collaborating on exciting projects in the ML domain.  
-🤝 I’m seeking help and exploring more about DevOps practices and Cloud platforms.  
-🌱 Currently, I’m expanding my skill set in infrastructure automation and cloud services.  
-💬 Feel free to ask me anything related to intelligent systems and data-driven solutions.  
+🔭 I’m currently working as Technical Support & System Administrator and code reviewer for ML & DS.  
+👯 I’m open to collaborate on cool ML projects, especially MLOps.  
+🤝 I’m exploring DevOps, MLOps, and cloud platforms.  
+🌱 I’m expanding skills in infrastructure automation and cloud services.  
+💬 Feel free to ask me anything about IT, intelligent systems, or data solutions.  
 ⚡ Fun fact: Mediocre (always improving, maybe)!
 
 <!--, currently exploring PyTorch and generative AI (LLMs).  
