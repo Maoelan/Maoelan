@@ -3,12 +3,12 @@
 
 I’m a machine learning enthusiast.
 
-🔭 I’m currently working as Technical Support & System Administrator and code reviewer for ML & DS.  
+<!-- 🔭 I’m currently working as Technical Support & System Administrator and code reviewer for ML & DS.  
 👯 I’m open to collaborate on cool ML projects, especially MLOps.  
 🤝 I’m exploring DevOps, MLOps, and cloud platforms.  
 🌱 I’m expanding skills in infrastructure automation and cloud services.  
 💬 Feel free to ask me anything about IT, intelligent systems, or data solutions.  
-⚡ Fun fact: Mediocre (always improving, maybe)!
+⚡ Fun fact: Mediocre (always improving, maybe)! -->
 
 <!--, currently exploring PyTorch and generative AI (LLMs).  
 
