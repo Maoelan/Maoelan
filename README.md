@@ -1,7 +1,7 @@
 ## Hey, I’m Maoelan / Maulana Muhammad 👋  
 <!--[](https://komarev.com/ghpvc/?username=maoelan&color=gray)  -->
 
-I’m a machine learning enthusiast.
+<!-- I’m a machine learning enthusiast.-->
 
 <!-- 🔭 I’m currently working as Technical Support & System Administrator and code reviewer for ML & DS.  
 👯 I’m open to collaborate on cool ML projects, especially MLOps.  
@@ -16,12 +16,20 @@ Besides diving into data and machine learning, I’m also into mobile developmen
 
 <!--Feel free to check out my work at [Portfolio](https://maoelana.vercel.app/). -->
 
-----
+<!---->
 
-<div align="center">
+<div align="left">
+
   <!-- GitHub Top Languages Card -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=dark&hide_border=true&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Top Languages"/>
-  
+
   <!-- WakaTime Stats Card -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="WakaTime Stats"/>
+
+  <!-- GitHub Stats Card -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maoelan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="GitHub Stats"/>
+
+  <!-- GitHub Streak Stats Card -->
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats"/>
+
 </div>
