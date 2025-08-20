@@ -1,35 +1,48 @@
-## Hey, I’m Maoelan / Maulana Muhammad 👋  
-<!--[](https://komarev.com/ghpvc/?username=maoelan&color=gray)  -->
+### Hey, I’m Maoelan / Maulana Muhammad 👋  
 
-<!-- I’m a machine learning enthusiast.-->
+I have a background in Machine Learning and Data Science.
 
-<!-- 🔭 I’m currently working as Technical Support & System Administrator and code reviewer for ML & DS.  
-👯 I’m open to collaborate on cool ML projects, especially MLOps.  
-🤝 I’m exploring DevOps, MLOps, and cloud platforms.  
-🌱 I’m expanding skills in infrastructure automation and cloud services.  
-💬 Feel free to ask me anything about IT, intelligent systems, or data solutions.  
-⚡ Fun fact: Mediocre (always improving, maybe)! -->
+A casual coder exploring the world of **DevOps, Cloud, and Backend**.  
+I’ve just started learning, so it’s all a journey 🚀.  
+Currently curious about **Large Language Models (LLMs)** and MLOps.  
 
-<!--, currently exploring PyTorch and generative AI (LLMs).  
+- 🌱 Lifelong learner  
+- 💻 Exploring DevOps, Cloud, Backend  
+- 🤔 I like experimenting and building small projects  
+- ⚡ Fun fact: Mediocre (always improving, maybe)!
 
-Besides diving into data and machine learning, I’m also into mobile development. Right now, I’m learning native Android & Flutter, and maybe React Native and Swift in the future.  
+---
 
-<!--Feel free to check out my work at [Portfolio](https://maoelana.vercel.app/). -->
+### 📊 Statistic 
 
-<!---->
+| Top Languages | GitHub Stats |
+|---------------|-------------|
+| <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=dark&hide_border=true&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Top Languages"/> | <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maoelan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="GitHub Stats"/> |
 
-<div align="left">
+<!--
+| WakaTime Stats | GitHub Streak Stats |
+|----------------|-------------------|
+| <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="WakaTime Stats"/> | <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats"/> |-->
 
-  <!-- GitHub Top Languages Card -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=dark&hide_border=true&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Top Languages"/>
+<!--<div align="left">
 
-  <!-- WakaTime Stats Card -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="WakaTime Stats"/>
+  <!-- GitHub Top Languages Card 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=dark&hide_border=true&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Top Languages"/>-->
 
-  <!-- GitHub Stats Card -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maoelan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="GitHub Stats"/>
+  <!-- WakaTime Stats Card 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="WakaTime Stats"/>-->
 
-  <!-- GitHub Streak Stats Card -->
+  <!-- GitHub Stats Card 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maoelan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="GitHub Stats"/>-->
+
+  <!-- GitHub Streak Stats Card 
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats"/>
 
-</div>
+</div> -->
+
+
+
+
+
+
+
