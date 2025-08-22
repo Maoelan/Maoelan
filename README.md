@@ -4,7 +4,7 @@ I have a background in Machine Learning and Data Science.
 
 A casual coder exploring the world of **DevOps, Cloud, and Backend**.  
 I’ve just started learning, so it’s all a journey 🚀.  
-Currently curious about **Large Language Models (LLMs)** and MLOps.  
+Currently curious about **Large Language Models (LLMs)** and **MLOps**.  
 
 - 🌱 Lifelong learner  
 - 💻 Exploring DevOps, Cloud, Backend  
