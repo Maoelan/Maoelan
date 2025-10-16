@@ -1,15 +1,22 @@
 ### Hey, I’m Maoelan / Maulana Muhammad 👋  
 
-I have a background in Machine Learning and Data Science.
+<!--I have a background in Machine Learning and Data Science.
 
 A casual coder exploring the world of **DevOps, Cloud, and Backend**.  
 I’ve just started learning, so it’s all a journey 🚀.  
 Currently curious about **Large Language Models (LLMs)** and **MLOps**.  
 
 - 🌱 Lifelong learner  
-- 💻 Exploring DevOps, Cloud, Backend  
+- 💻 Exploring Backend, DevOps and Cloud  
+- 📚 Aritifical Intelligence, Machine Learning and Data Science Entusiast
 - 🤔 I like experimenting and building small projects  
-- ⚡ Fun fact: Mediocre (always improving, maybe)!
+- ⚡ Fun fact: Mediocre (always improving, maybe)!-->
+
+- 🌱 Lifelong learner.
+- 💻 Exploring Backend, Cloud, and DevOps.
+- 📚 AI, ML, and Data Science enthusiast.
+- 🤔 Like experimenting and building small projects.
+- ⚡ Fun fact: Mediocre (always improving, hopefully)!
 
 ---
 
