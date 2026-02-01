@@ -19,7 +19,7 @@ Currently curious about **Large Language Models (LLMs)** and **MLOps**.
 - ⚡ Fun fact: Mediocre (always improving, hopefully)!
 
 
-### 📊 Statistic 
+<!--### 📊 Statistic 
 
 | Top Languages | GitHub Stats |
 |---------------|-------------|
