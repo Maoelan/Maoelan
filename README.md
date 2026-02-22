@@ -13,9 +13,9 @@ Currently curious about **Large Language Models (LLMs)** and **MLOps**.
 - ⚡ Fun fact: Mediocre (always improving, maybe)!-->
 
 - 🌱 Lifelong learner.
-- 💻 Exploring AI, ML, Data Science, Backend, Cloud, and DevOps.
+<!-- 💻 Exploring AI, ML, Data Science, Backend, Cloud, and DevOps.
 - 📚 Quality Assurance and Software Development Engineer in Test (SDET)
-- 🤔 Like experimenting and building small projects.
+- 🤔 Like experimenting and building small projects.-->
 - ⚡ Fun fact: Mediocre (always improving, hopefully)!
 
 
