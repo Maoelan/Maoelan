@@ -50,7 +50,7 @@ me.say_hi()
 
 ---
  
-### 🛠️ Tech Stack
+<!--### 🛠️ Tech Stack
  
 | Category | Badges |
 |---|---|
@@ -82,9 +82,9 @@ me.say_hi()
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maoelan/Maoelan/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Maoelan/Maoelan/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>-->
+</div>
 
----
+----->
 
 <div align="center">
 
