@@ -1,54 +1,132 @@
-### Hey, I’m Maoelan / Maulana Muhammad 👋  
+<div align="center">
 
-<!--I have a background in Machine Learning and Data Science.
+<!-- Animated wave header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=120&section=header&text=Maoelan&fontSize=50&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-A casual coder exploring the world of **DevOps, Cloud, and Backend**.  
-I’ve just started learning, so it’s all a journey 🚀.  
-Currently curious about **Large Language Models (LLMs)** and **MLOps**.  
+### Hey, I'm Maulana Muhammad 👋
 
-- 🌱 Lifelong learner  
-- 💻 Exploring Backend, DevOps and Cloud  
-- 📚 Aritifical Intelligence, Machine Learning and Data Science Entusiast
-- 🤔 I like experimenting and building small projects  
-- ⚡ Fun fact: Mediocre (always improving, maybe)!-->
+<!-- Typing animation
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ML+Engineer+%7C+Data+Scientist;MLOps+%7C+LLMs+%7C+Backend;Currently+deep-diving+into+Frontend+%F0%9F%8E%A8;Lifelong+learner+%F0%9F%8C%B1)](https://git.io/typing-svg) -->
 
-- 🌱 Lifelong learner.
-<!-- 💻 Exploring AI, ML, Data Science, Backend, Cloud, and DevOps.
-- 📚 Quality Assurance and Software Development Engineer in Test (SDET)
-- 🤔 Like experimenting and building small projects.-->
-- ⚡ Fun fact: Mediocre (always improving, hopefully)!
+<br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulanamuhammad2000/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maoel.vercel.app/)
+[![Fun Zone](https://img.shields.io/badge/Fun%20Zone%20🎉-FF4500?style=for-the-badge)](https://maoelana-works-on-local.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maoelan)
 
-<!--### 📊 Statistic 
+</div>
+
+---
+
+```python
+class Maoelan:
+    def __init__(self):
+        self.name        = "Maulana Muhammad"
+        self.focus       = ["MLOps", "LLMs", "Backend", "Frontend", "Data Science"]
+        self.currently   = "Deep-diving into Frontend development 🎨"
+        self.fun_fact    = "Mediocre - always improving, hopefully 🙃"
+        self.lifelong    = True
+
+    def say_hi(self):
+        print("Thanks for stopping by! Feel free to poke around 👀")
+
+me = Maoelan()
+me.say_hi()
+```
+
+---
+
+### 🧭 What I'm Into
+
+- 🤖 **AI / ML / Data Science** - from classical models to fine-tuning LLMs
+- 🔁 **MLOps** - MLflow, TFX, CI/CD pipelines, experiment tracking
+- 🦙 **LLMs** - RAG, prompt engineering, fine-tuning (Llama, BERT, GPT-2, and friends)
+- 🌐 **Backend** - Node.js, Express.js, Hapi.js, Flask, REST APIs, clean architecture
+- 🎨 **Frontend** - currently deep-diving into modern web development
+- 🦀 **Exploring** - Rust, LangChain, cloud & DevOps things
+- 📱 **Built some Android stuff** - mostly Kotlin + Jetpack Compose
+- 🌱 **Lifelong learner** - still figuring things out, one commit at a time
+
+---
+
+### 🛠️ Tools & Tech I Use
+
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+**🤖 AI / ML / Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**🔁 MLOps & DevOps**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**🌐 Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**🎨 Frontend** *(currently diving in)*
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+### 📊 Stats
+
+<div align="center">
 
 | Top Languages | GitHub Stats |
-|---------------|-------------|
-| <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=dark&hide_border=true&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Top Languages"/> | <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maoelan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="GitHub Stats"/> |
+|:---:|:---:|
+| <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" alt="Top Languages"/> | <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maoelan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" alt="GitHub Stats"/> |
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9944&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ff9944&sideLabels=aaaaaa&dates=666666" alt="GitHub Streak Stats"/>
 
-| WakaTime Stats | GitHub Streak Stats |
-|----------------|-------------------|
-| <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="WakaTime Stats"/> | <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats"/>
+</div>
 
-<!--<div align="left">
+---
 
-  <!-- GitHub Top Languages Card 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=dark&hide_border=true&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Top Languages"/>-->
+### 🐍 Contribution Snake
 
-  <!-- WakaTime Stats Card 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="WakaTime Stats"/>-->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maoelan/Maoelan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maoelan/Maoelan/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Maoelan/Maoelan/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
-  <!-- GitHub Stats Card 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maoelan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="GitHub Stats"/>-->
+---
 
-  <!-- GitHub Streak Stats Card 
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats"/>
+<div align="center">
 
-</div> -->
+*"Build it. Break it. Fix it. Repeat."*
 
+![Visitor Count](https://komarev.com/ghpvc/?username=maoelan&color=58a6ff&style=flat-square&label=profile+views)
 
+<!-- Animated wave footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a3a5c,100:0d1117&height=80&section=footer" />
 
-
-
-
-
+</div>
