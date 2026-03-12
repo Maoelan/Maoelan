@@ -22,11 +22,11 @@
 ```python
 class Maoelan:
     def __init__(self):
-        self.name        = "Maulana Muhammad"
-        self.focus       = ["MLOps", "LLMs", "Backend", "Frontend", "Data Science"]
-        self.currently   = "Deep-diving into Frontend development 🎨"
-        self.fun_fact    = "Mediocre - always improving, hopefully 🙃"
-        self.lifelong    = True
+        self.name      = "Maulana Muhammad"
+        self.focus     = ["MLOps", "LLMs", "Backend", "Frontend", "Data Science"]
+        self.currently = "Deep-diving into Frontend development 🎨"
+        self.fun_fact  = "Mediocre - always improving, hopefully 🙃"
+        self.lifelong  = True
 
     def say_hi(self):
         print("Thanks for stopping by! Feel free to poke around 👀")
