@@ -12,8 +12,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulanamuhammad2000/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maoel.vercel.app/)
-[![Fun Zone](https://img.shields.io/badge/Fun%20Zone%20🎉-FF4500?style=for-the-badge)](https://maoelana-works-on-local.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maoelan)
+<!--[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maoelan)-->
+<!--[![Fun Zone](https://img.shields.io/badge/Fun%20Zone%20🎉-FF4500?style=for-the-badge)](https://maoelana-works-on-local.vercel.app/)-->
 
 </div>
 
@@ -37,7 +37,7 @@ me.say_hi()
 
 ---
 
-### 🧭 What I'm Into
+<!--### 🧭 What I'm Into
 
 - 🤖 **AI / ML / Data Science** - from classical models to fine-tuning LLMs
 - 🔁 **MLOps** - MLflow, TFX, CI/CD pipelines, experiment tracking
@@ -62,15 +62,19 @@ me.say_hi()
  
 ---
 
-### 📊 Stats
+### 📊 Stats-->
 
 <div align="center">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&layout=compact&langs_count=10" />
+</div>
  
-| Top Languages | GitHub Stats | Streak |
+<!--| Top Languages | GitHub Stats | Streak |
 |:---:|:---:|:---:|
 | <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoelan&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" /> | <img height="130em" src="https://github-readme-stats.vercel.app/api?username=maoelan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" /> | <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=maoelan&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9944&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ff9944&sideLabels=aaaaaa&dates=666666" /> |
  
-</div>
+</div>-->
 
 <!---
 
@@ -85,6 +89,8 @@ me.say_hi()
 </div>
 
 ----->
+
+---
 
 <div align="center">
 
