@@ -67,8 +67,9 @@ me.say_hi()
 <div align="center">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&layout=compact&langs_count=10" />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=maoelan&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&layout=compact&langs_count=10" />
 </div>
+
  
 <!--| Top Languages | GitHub Stats | Streak |
 |:---:|:---:|:---:|
