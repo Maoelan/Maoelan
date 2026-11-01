@@ -13,7 +13,41 @@
 
 --->
 
-```python
+
+```kotlin
+class Maoelan {
+    val name = "Maulana Muhammad"
+
+    val focus = listOf(
+        "Native Android Development (Kotlin)",
+        "Native iOS Development (Swift) - Next",
+        "Cross-Platform Development (Flutter / React Native) - Someday"
+    )
+
+    val experience = listOf(
+        "AI/ML & MLOps",
+        "Workflow Automation",
+        "Backend & Web Development",
+        "Data Engineering"
+    )
+
+    val currently = "Back to my roots, learning native Android development 📱"
+    val goal = "Build and publish my own app on Google Play"
+    val funFact = "Mediocre - always improving, hopefully 🙃"
+    val lifelong = true
+
+    fun sayHi() {
+        println("Thanks for stopping by! Feel free to poke around 👀")
+    }
+}
+
+fun main() {
+    val me = Maoelan()
+    me.sayHi()
+}
+```
+
+<!--```python
 class Maoelan:
     def __init__(self):
         self.name      = "Maulana Muhammad"
